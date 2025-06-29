@@ -9,6 +9,9 @@ Dan inilah dia.
 
 ```
 Clone repo
+
+git clone https://github.com/AndiSusanto15/rtsp-bruteforce.git
+
 cd rtsp-brutefoce
 
 ./rtsp_bruteforce.sh <IP>:<PORT> <USERNAME> <PASSWORD> # Menggunakan shell script
